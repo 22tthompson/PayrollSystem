@@ -1,0 +1,13 @@
+C:\Users\22ThompsonT\source\repos\DACC\bin\Debug\netcoreapp3.1\DACC.exe
+C:\Users\22ThompsonT\source\repos\DACC\bin\Debug\netcoreapp3.1\DACC.deps.json
+C:\Users\22ThompsonT\source\repos\DACC\bin\Debug\netcoreapp3.1\DACC.runtimeconfig.json
+C:\Users\22ThompsonT\source\repos\DACC\bin\Debug\netcoreapp3.1\DACC.runtimeconfig.dev.json
+C:\Users\22ThompsonT\source\repos\DACC\bin\Debug\netcoreapp3.1\DACC.dll
+C:\Users\22ThompsonT\source\repos\DACC\bin\Debug\netcoreapp3.1\DACC.pdb
+C:\Users\22ThompsonT\source\repos\DACC\obj\Debug\netcoreapp3.1\DACC.csprojAssemblyReference.cache
+C:\Users\22ThompsonT\source\repos\DACC\obj\Debug\netcoreapp3.1\DACC.AssemblyInfoInputs.cache
+C:\Users\22ThompsonT\source\repos\DACC\obj\Debug\netcoreapp3.1\DACC.AssemblyInfo.cs
+C:\Users\22ThompsonT\source\repos\DACC\obj\Debug\netcoreapp3.1\DACC.csproj.CoreCompileInputs.cache
+C:\Users\22ThompsonT\source\repos\DACC\obj\Debug\netcoreapp3.1\DACC.dll
+C:\Users\22ThompsonT\source\repos\DACC\obj\Debug\netcoreapp3.1\DACC.pdb
+C:\Users\22ThompsonT\source\repos\DACC\obj\Debug\netcoreapp3.1\DACC.genruntimeconfig.cache
