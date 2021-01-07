@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 PAYSLIP FOR DEC 2020
 ================
 Name of Staff: John
@@ -9,3 +10,17 @@ Basic Pay: $4,350.00
 ================
 Total Pay: $4,350.00
 ================
+||||||| 66e7afa
+=======
+PAYSLIP FOR DEC 2020
+================
+Name of Staff: John
+Hours Worked: 145
+
+Basic Pay: $4,350.00
+Overtime: $0.00
+
+================
+Total Pay: $4,350.00
+================
+>>>>>>> 5c6c7f23a75875e27e2d12f0c92905676c718dc5

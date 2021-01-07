@@ -31,7 +31,7 @@ namespace DACC
 
             while (month == 0)
             {
-                Console.Write("\nPlease enter the month:");
+                Console.Write("\nPlease enter the month: ");
 
                 try
                 {
@@ -173,7 +173,7 @@ namespace DACC
         {
             return "\nNameOfStaff = " + NameOfStaff
             + "\nadminHourlyRate = " + adminHourlyRate
-            + "\nhWorked = " + HoursWorked
+            + "\nHoursWorked = " + HoursWorked
             + "\nBasicPay = " + BasicPay
             + "\nOvertime = " + Overtime
             + "\n\nTotalPay = " + TotalPay;
@@ -247,7 +247,7 @@ namespace DACC
                     if (f.GetType() == typeof(Manager))
                         sw.WriteLine("Allowance: {0:C}", ((Manager)f).Allowance);
                     else if (f.GetType() == typeof(Admin))
-                        sw.WriteLine();
+                        sw.WriteLine("Overtime: {0:C}", ((Admin)f).Overtime);
 
                     sw.WriteLine("");
                     sw.WriteLine("================");

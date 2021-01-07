@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 PAYSLIP FOR DEC 2020
 ================
 Name of Staff: Carol
@@ -9,3 +10,17 @@ Basic Pay: $4,350.00
 ================
 Total Pay: $4,350.00
 ================
+||||||| 66e7afa
+=======
+PAYSLIP FOR DEC 2020
+================
+Name of Staff: Carol
+Hours Worked: 165
+
+Basic Pay: $4,950.00
+Overtime: $77.50
+
+================
+Total Pay: $4,950.00
+================
+>>>>>>> 5c6c7f23a75875e27e2d12f0c92905676c718dc5
